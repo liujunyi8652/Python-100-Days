@@ -1,5 +1,4 @@
-# NEXT
-
-- 目前只会 if / for / while。
-- 主线计划：先从 Day08 开始补 list/dict/set/tuple。
-- 下次学习：看 Day08 里关于 list 的部分，做 1 个小练习。
+- 进度：Day08 / list（看到了 xxx 小节）
+- 今天做到：会用 append / 遍历 / 切片（例子写过一遍）
+- 下次第一步：做 1 个小练习：把一堆文件名按后缀分组（用 list + dict）
+- 卡点：切片的 start:end:step 老忘（已记到 Cheatsheet）
